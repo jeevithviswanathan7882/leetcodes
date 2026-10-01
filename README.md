@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
+| [1796-second-largest-digit-in-a-string](https://github.com/STARK7882/leetcodes/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/STARK7882/leetcodes/tree/master/1796-second-largest-digit-in-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/STARK7882/leetcodes/tree/master/2390-removing-stars-from-a-string) |
