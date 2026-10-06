@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/STARK7882/leetcodes/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/STARK7882/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/STARK7882/leetcodes/tree/master/1796-second-largest-digit-in-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/STARK7882/leetcodes/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/STARK7882/leetcodes/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/STARK7882/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/STARK7882/leetcodes/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/STARK7882/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/STARK7882/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/STARK7882/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Geometry
 |  |
 | ------- |
