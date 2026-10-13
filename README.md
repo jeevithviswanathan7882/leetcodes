@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/STARK7882/leetcodes/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/STARK7882/leetcodes/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
