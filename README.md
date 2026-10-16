@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/STARK7882/leetcodes/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/STARK7882/leetcodes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1408-string-matching-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/STARK7882/leetcodes/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/STARK7882/leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1408-string-matching-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/STARK7882/leetcodes/tree/master/1796-second-largest-digit-in-a-string) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/STARK7882/leetcodes/tree/master/0584-find-customer-referee) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
