@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/STARK7882/leetcodes/tree/master/2390-removing-stars-from-a-string) |
+| [3798-largest-even-number](https://github.com/STARK7882/leetcodes/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
