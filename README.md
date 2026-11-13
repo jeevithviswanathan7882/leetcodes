@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/STARK7882/leetcodes/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/STARK7882/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/STARK7882/leetcodes/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/STARK7882/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/STARK7882/leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/STARK7882/leetcodes/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
